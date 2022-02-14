@@ -183,4 +183,12 @@
   interface: gui
   type: app  
 
-
+- name: Autoconverter
+  webpage: https://www.automapki.com/products/autoconverter.html
+  description: Import, export and convert many 3D mesh and solid file formats
+  foss: false
+  category: 
+    - viewer
+    - converter
+  interface: gui
+  type: app  
